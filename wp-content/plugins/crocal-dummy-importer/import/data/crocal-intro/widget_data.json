@@ -1,0 +1,27 @@
+[
+  {
+    "eut-single-portfolio-sidebar": [
+      "text-2"
+    ],
+    "crocal_eutf_sidebar_5bceb352194d4": [
+      "text-3"
+    ]
+  },
+  {
+    "text": {
+      "2": {
+        "title": "",
+        "text": "Crocal is a super user-friendly, yet super powerful multi-purpose WordPress theme. Its philosophy, in the backend as well as in the front-end, allows users to design sites which lead to awesomeness and nothing less.",
+        "filter": true,
+        "visual": true
+      },
+      "3": {
+        "title": "",
+        "text": "<div>[crocal_single_image image=\"1376\" retina_image=\"1378\" inherit_align=\"left\"][crocal_empty_space height_multiplier=\"custom\" height=\"30\"][vc_column_text]Crocal is a super user-friendly, yet super powerful multi-purpose WordPress theme. Don’t waste your time, be incomparable and build the most beautiful website out there.[/vc_column_text][crocal_empty_space height_multiplier=\"custom\" height=\"60\"][crocal_icon_box icon_box_type=\"side-icon\" icon_size=\"small\" icon_library=\"etlineicons\" icon_etlineicons=\"et-icon-lifesaver\" title=\"Online Support\" heading=\"link-text\" link=\"url:https%3A%2F%2Feuthemians.ticksy.com%2F||target:%20_blank|\" margin_bottom=\"18\"][/crocal_icon_box][crocal_icon_box icon_box_type=\"side-icon\" icon_size=\"small\" icon_library=\"etlineicons\" icon_etlineicons=\"et-icon-search\" title=\"Knowledge Base\" heading=\"link-text\" link=\"url:https%3A%2F%2Fdocs.euthemians.com%2Ftheme%2Fcrocal%2F||target:%20_blank|\" margin_bottom=\"18\"][/crocal_icon_box][crocal_icon_box icon_box_type=\"side-icon\" icon_size=\"small\" icon_library=\"etlineicons\" icon_etlineicons=\"et-icon-happy\" title=\"Video Tutorials\" heading=\"link-text\" link=\"url:https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNp1cNhcLQKJm81q9hAKAcw||target:%20_blank|\" margin_bottom=\"18\"][/crocal_icon_box][crocal_empty_space height_multiplier=\"custom\" height=\"60\"][crocal_button button_text=\"Purchase Crocal Now\" button_hover_color=\"white\" button_shape=\"round\" button_shadow=\"medium\" button_link=\"url:https%3A%2F%2F1.envato.market%2Fcrocal||target:%20_blank|\"]</div>",
+        "filter": true,
+        "visual": true
+      },
+      "_multiwidget": 1
+    }
+  }
+]

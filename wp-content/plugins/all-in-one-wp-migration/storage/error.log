@@ -1,0 +1,6 @@
+Aug 04 2020 23:58:05
+{"type":2,"message":"mkdir(): File exists","file":"D:\\wamp64\\www\\Dry-Aware\\wp-includes\\functions.php","line":1986}
+
+Aug 04 2020 23:58:05
+{"type":2,"message":"mkdir(): File exists","file":"D:\\wamp64\\www\\Dry-Aware\\wp-content\\plugins\\ultimate-member\\includes\\admin\\core\\class-admin-notices.php","line":227}
+

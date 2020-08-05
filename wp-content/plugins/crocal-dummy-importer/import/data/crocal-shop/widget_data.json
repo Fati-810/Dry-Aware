@@ -1,0 +1,40 @@
+[
+  {
+    "crocal_eutf_sidebar_5bbc986ec7bbc": [
+      "woocommerce_price_filter-2",
+      "text-2",
+      "woocommerce_recently_viewed_products-2",
+      "woocommerce_product_tag_cloud-3"
+    ]
+  },
+  {
+    "woocommerce_price_filter": {
+      "2": {
+        "title": "Filter by price"
+      },
+      "_multiwidget": 1
+    },
+    "text": {
+      "2": {
+        "title": "",
+        "text": "[crocal_single_image image_type=\"image-link\" image=\"392\" retina_image=\"393\" image_shape=\"radius-5\" link=\"url:https%3A%2F%2Feuthemians.com%2Fthemes%2Fcrocal%2Fcrocal-shop%2Fproduct%2Fthe-zigzagus%2F|||\"]",
+        "filter": true,
+        "visual": true
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_recently_viewed_products": {
+      "2": {
+        "title": "Recently Viewed Products",
+        "number": 3
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_product_tag_cloud": {
+      "3": {
+        "title": "Product tags"
+      },
+      "_multiwidget": 1
+    }
+  }
+]

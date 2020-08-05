@@ -1,0 +1,557 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Crocal Demo Importer v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-04 11:22+0300\n"
+"PO-Revision-Date: 2019-08-04 11:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: crocal-dummy-importer.php:95
+msgid ""
+"You are about to import dummy data!\n"
+"It is recommended to clear your data first.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+
+#: crocal-dummy-importer.php:96
+msgid ""
+"You are about to import partial dummy data!\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+
+#: crocal-dummy-importer.php:97
+msgid "An unexpected error occured:"
+msgstr ""
+
+#: crocal-dummy-importer.php:119
+msgid "WooCommerce"
+msgstr ""
+
+#: crocal-dummy-importer.php:124
+msgid "Events Calendar"
+msgstr ""
+
+#: crocal-dummy-importer.php:142
+msgid "Several sample pages and layouts to get inspired. Elements are also included here to get a simple understanding of how Crocal works."
+msgstr ""
+
+#: crocal-dummy-importer.php:151
+msgid "Import the intro one page of Crocal, one of the most impressive demonstration pages on the marketplace."
+msgstr ""
+
+#: crocal-dummy-importer.php:160
+msgid "Shop case study with WooCommerce products. Showcase your products and start selling in a few minutes."
+msgstr ""
+
+#: crocal-dummy-importer.php:171
+msgid "Another shop case study to showcase your products and start selling. Impressive video intro and clean design to get inspired."
+msgstr ""
+
+#: crocal-dummy-importer.php:181
+msgid "Premium case study for gyms and personal trainers. Modern and clean design."
+msgstr ""
+
+#: crocal-dummy-importer.php:190
+msgid "Dark style for creative photographers and freelancers."
+msgstr ""
+
+#: crocal-dummy-importer.php:199
+msgid "Single landing page for presentations, book landing sample."
+msgstr ""
+
+#: crocal-dummy-importer.php:207
+msgid "Elegant construction case study with professional and clean design."
+msgstr ""
+
+#: crocal-dummy-importer.php:216
+msgid "Real Case study for restaurants, bistros, coffee shops and similar projects."
+msgstr ""
+
+#: crocal-dummy-importer.php:225
+msgid "Do you have a new project in mind? Try Crocal startup, one page case."
+msgstr ""
+
+#: crocal-dummy-importer.php:234
+msgid "Your moment to shine has arrived. Enjoy your wedding with Crocal."
+msgstr ""
+
+#: crocal-dummy-importer.php:244
+msgid "A great way to promote your App. Simple and clean design."
+msgstr ""
+
+#: crocal-dummy-importer.php:253
+msgid "Clinic case study, simple and clean design demonstrating Events Calendar."
+msgstr ""
+
+#: crocal-dummy-importer.php:263
+msgid "An elegant and creative portfolio case study."
+msgstr ""
+
+#: crocal-dummy-importer.php:272
+msgid "Modern, creative and clean case study for design agencies, startups and freelancers."
+msgstr ""
+
+#: crocal-dummy-importer.php:281
+msgid "If you are a Blogger and publish regularly, you will love Crocal Blog."
+msgstr ""
+
+#: crocal-dummy-importer.php:290
+msgid "Clean and professional one page case study combined with some of the latest web trends."
+msgstr ""
+
+#: crocal-dummy-importer.php:299
+msgid "Impressive and modern design with split menu header, emphasising on portfolio showcase."
+msgstr ""
+
+#: crocal-dummy-importer.php:308
+msgid "Handcrafted for Architects, Engineering and Construction companies"
+msgstr ""
+
+#: crocal-dummy-importer.php:461
+msgid "Attachments Imported"
+msgstr ""
+
+#: crocal-dummy-importer.php:468
+msgid "Attachments:  Imported!"
+msgstr ""
+
+#: crocal-dummy-importer.php:472
+msgid "Attachment Import finished with errors!"
+msgstr ""
+
+#: crocal-dummy-importer.php:477 crocal-dummy-importer.php:738
+msgid "The minimum PHP version required for the Dummy Importer is:"
+msgstr ""
+
+#: crocal-dummy-importer.php:481 crocal-dummy-importer.php:743
+msgid "Crocal Theme is not activated! Crocal Theme needs to be installed and activated!"
+msgstr ""
+
+#: crocal-dummy-importer.php:483 crocal-dummy-importer.php:745
+msgid "Themes"
+msgstr ""
+
+#: crocal-dummy-importer.php:540
+msgid "Single Content: File empty ot not existing!"
+msgstr ""
+
+#: crocal-dummy-importer.php:584
+msgid "Single Content: Error During Import!"
+msgstr ""
+
+#: crocal-dummy-importer.php:587
+msgid "Single Content: imported!"
+msgstr ""
+
+#: crocal-dummy-importer.php:606
+msgid "Dummy Content: File empty ot not existing!"
+msgstr ""
+
+#: crocal-dummy-importer.php:620
+msgid "Dummy Content: Error During Import!"
+msgstr ""
+
+#: crocal-dummy-importer.php:674
+msgid "Dummy Content: imported!"
+msgstr ""
+
+#: crocal-dummy-importer.php:686
+msgid "Theme Options: file empty ot not existing!"
+msgstr ""
+
+#: crocal-dummy-importer.php:690
+msgid "Theme Options: imported!"
+msgstr ""
+
+#: crocal-dummy-importer.php:701
+msgid "Widgets: no widgets available for this Demo!"
+msgstr ""
+
+#: crocal-dummy-importer.php:705
+msgid "Widgets: imported!"
+msgstr ""
+
+#: crocal-dummy-importer.php:718
+msgid "Import finished!"
+msgstr ""
+
+#: crocal-dummy-importer.php:721 crocal-dummy-importer.php:732
+msgid "Visit Site"
+msgstr ""
+
+#: crocal-dummy-importer.php:723
+msgid "Redirecting to finish page..."
+msgstr ""
+
+#: crocal-dummy-importer.php:726
+msgid "No options selected, please select some options and press the import button!"
+msgstr ""
+
+#: crocal-dummy-importer.php:731
+msgid "Import finished with errors!"
+msgstr ""
+
+#: crocal-dummy-importer.php:1161 crocal-dummy-importer.php:1170
+#: crocal-dummy-importer.php:1218 crocal-dummy-importer.php:1222
+#: crocal-dummy-importer.php:1231 crocal-dummy-importer.php:2128
+#: crocal-dummy-importer.php:2137
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: crocal-dummy-importer.php:1162
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: crocal-dummy-importer.php:1223
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: crocal-dummy-importer.php:1239
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: crocal-dummy-importer.php:1264
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: crocal-dummy-importer.php:1315
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: crocal-dummy-importer.php:1356
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: crocal-dummy-importer.php:1405 crocal-dummy-importer.php:1666
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: crocal-dummy-importer.php:1492
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: crocal-dummy-importer.php:1518
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: crocal-dummy-importer.php:1631
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: crocal-dummy-importer.php:1799
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: crocal-dummy-importer.php:1808
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: crocal-dummy-importer.php:1889
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: crocal-dummy-importer.php:1906
+msgid "Invalid file type"
+msgstr ""
+
+#: crocal-dummy-importer.php:1981
+msgid "Remote server did not respond"
+msgstr ""
+
+#: crocal-dummy-importer.php:1989
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: crocal-dummy-importer.php:1996
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: crocal-dummy-importer.php:2002
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: crocal-dummy-importer.php:2129
+msgid "The file/demo does not exist, please try again."
+msgstr ""
+
+#: crocal-dummy-importer.php:2288
+msgid "Pages"
+msgstr ""
+
+#: crocal-dummy-importer.php:2303
+msgid "Portfolio Items"
+msgstr ""
+
+#: crocal-dummy-importer.php:2318
+msgid "Posts"
+msgstr ""
+
+#: crocal-dummy-importer.php:2333
+msgid "Products"
+msgstr ""
+
+#: crocal-dummy-importer.php:2348
+msgid "Area Items"
+msgstr ""
+
+#: crocal-dummy-importer.php:2371
+msgid "Welcome"
+msgstr ""
+
+#: crocal-dummy-importer.php:2372
+msgid "Demos"
+msgstr ""
+
+#: crocal-dummy-importer.php:2373
+msgid "Content"
+msgstr ""
+
+#: crocal-dummy-importer.php:2374
+msgid "Finish"
+msgstr ""
+
+#: crocal-dummy-importer.php:2393
+msgid "Please note the following points:"
+msgstr ""
+
+#: crocal-dummy-importer.php:2395
+msgid "The import process will work best on a clean installation. You can use a plugin such as WordPress Reset to clear your data first."
+msgstr ""
+
+#: crocal-dummy-importer.php:2396
+msgid "Ensure all needed plugins are already installed and activated, e.g. WPBakery Visual Composer, Crocal Extension, WooCommerce, Contact Form 7 etc."
+msgstr ""
+
+#: crocal-dummy-importer.php:2397
+msgid "To import one of our Demos, select all or some of the options of any demo and press the import button."
+msgstr ""
+
+#: crocal-dummy-importer.php:2398
+msgid "Keep in mind not to run importer twice without clearing your data first. You might end up with duplicate data e.g duplicate menu items and/or widgets."
+msgstr ""
+
+#: crocal-dummy-importer.php:2399
+msgid "Once you start the process, please leave it running and uninterrupted! After the import, a status will be displayed with the results!"
+msgstr ""
+
+#: crocal-dummy-importer.php:2405
+msgid "The normal operation time for the Import Full Demo mechanism is less than 3 minutes. For the Import On Demand process only a few seconds will be enough. Actual time may vary depending on your server performance. In case any of the import mechanisms is not successful, please inform us through our support forum to guide you through safely."
+msgstr ""
+
+#: crocal-dummy-importer.php:2407
+msgid "It is always recommended to use the Import On Demand process. Import On Demand is the fastest way to get a simple understanding of how the theme works and demonstrate in a few minutes your work to your customers."
+msgstr ""
+
+#: crocal-dummy-importer.php:2411
+msgid "The images included in preview are for demonstration purposes only. Some of them have been purchased from Shutter Stock and others were downloaded from Unsplash, Death To Stock and similar sources. It is worth noting that after the import process, you will have placeholders instead of the actual images."
+msgstr ""
+
+#: crocal-dummy-importer.php:2415 crocal-dummy-importer.php:2595
+msgid "Choose Demo"
+msgstr ""
+
+#: crocal-dummy-importer.php:2423
+msgid "Server Settings"
+msgstr ""
+
+#: crocal-dummy-importer.php:2451
+msgid "PHP Version"
+msgstr ""
+
+#: crocal-dummy-importer.php:2464 crocal-dummy-importer.php:2485
+#: crocal-dummy-importer.php:2505 crocal-dummy-importer.php:2525
+#: crocal-dummy-importer.php:2545 crocal-dummy-importer.php:2565
+#: crocal-dummy-importer.php:2585
+msgid "Currently:"
+msgstr ""
+
+#: crocal-dummy-importer.php:2467
+msgid "(recommended PHP 5.6 or higher)"
+msgstr ""
+
+#: crocal-dummy-importer.php:2472
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: crocal-dummy-importer.php:2488
+msgid "(min:256M)"
+msgstr ""
+
+#: crocal-dummy-importer.php:2493
+msgid "PHP Max. Post Size"
+msgstr ""
+
+#: crocal-dummy-importer.php:2508
+msgid "(min:64M)"
+msgstr ""
+
+#: crocal-dummy-importer.php:2513
+msgid "PHP Upload Max. Filesize"
+msgstr ""
+
+#: crocal-dummy-importer.php:2528
+msgid "(min:32M)"
+msgstr ""
+
+#: crocal-dummy-importer.php:2533
+msgid "PHP Max. Input Variables"
+msgstr ""
+
+#: crocal-dummy-importer.php:2548
+msgid "(recommended 2000 or higher)"
+msgstr ""
+
+#: crocal-dummy-importer.php:2553
+msgid "PHP Max. Execution time"
+msgstr ""
+
+#: crocal-dummy-importer.php:2568
+msgid "(recommended 300 or higher)"
+msgstr ""
+
+#: crocal-dummy-importer.php:2573
+msgid "WP Memory Limit"
+msgstr ""
+
+#: crocal-dummy-importer.php:2588
+msgid "(recommended 96M or higher)"
+msgstr ""
+
+#: crocal-dummy-importer.php:2594
+msgid "Recommended Server Settings"
+msgstr ""
+
+#: crocal-dummy-importer.php:2622
+msgid "Select your Demo"
+msgstr ""
+
+#: crocal-dummy-importer.php:2623
+msgid "Here you can select the demo of your choice. Nothing will be imported in your installation after clicking any button on this step. Just select one of the available demos, explore and then import any specific content you wish."
+msgstr ""
+
+#: crocal-dummy-importer.php:2650
+msgid "Preview Demo"
+msgstr ""
+
+#: crocal-dummy-importer.php:2651
+msgid "Explore Demo"
+msgstr ""
+
+#: crocal-dummy-importer.php:2701
+msgid "Import in progress..."
+msgstr ""
+
+#: crocal-dummy-importer.php:2702
+msgid "Don't close the browser or navigate away"
+msgstr ""
+
+#: crocal-dummy-importer.php:2715
+msgid "Import On Demand"
+msgstr ""
+
+#: crocal-dummy-importer.php:2716
+msgid "Choose the specific pages, portfolios, posts, area items and products you wish to import into your site. Select the ones you prefer via the available multi selectors below and click the button Import Selected."
+msgstr ""
+
+#: crocal-dummy-importer.php:2723
+msgid "You can select/deselect multiple items too (ctrl + click on PC and command + click on Mac)."
+msgstr ""
+
+#: crocal-dummy-importer.php:2727 crocal-dummy-importer.php:2775
+msgid "Download images from live demo *"
+msgstr ""
+
+#: crocal-dummy-importer.php:2730 crocal-dummy-importer.php:2778
+msgid "Important Note: "
+msgstr ""
+
+#: crocal-dummy-importer.php:2732 crocal-dummy-importer.php:2780
+msgid "The actual images included in preview are for demonstration purposes only. They have been purchased from Shutterstock and/or downloaded from Unsplash, Death to Stock and similar sources. In case you use any of these images in your end-product, ensure that they are properly licensed. Euthemians does not transfer any licenses for the images used in the demo sites."
+msgstr ""
+
+#: crocal-dummy-importer.php:2735
+msgid "Clear Selection"
+msgstr ""
+
+#: crocal-dummy-importer.php:2736
+msgid "Import Selected"
+msgstr ""
+
+#: crocal-dummy-importer.php:2740 crocal-dummy-importer.php:2783
+msgid "Import Full Demo"
+msgstr ""
+
+#: crocal-dummy-importer.php:2752
+msgid "Missing plugin"
+msgstr ""
+
+#: crocal-dummy-importer.php:2755
+msgid "In case you need the full case study it is recommended to install/activate the missing plugin."
+msgstr ""
+
+#: crocal-dummy-importer.php:2762
+msgid "The import process will work best on a clean installation. You can use a plugin such as WordPress Reset to clear your data first. The import process will work best on a clean installation. You can use a plugin such as WordPress Reset to clear your data first"
+msgstr ""
+
+#: crocal-dummy-importer.php:2766
+msgid "Dummy Content"
+msgstr ""
+
+#: crocal-dummy-importer.php:2769
+msgid "Theme Options"
+msgstr ""
+
+#: crocal-dummy-importer.php:2772
+msgid "Widgets"
+msgstr ""
+
+#: crocal-dummy-importer.php:2807
+msgid "Import Completed!"
+msgstr ""
+
+#: crocal-dummy-importer.php:2809
+msgid "Visit Your Site"
+msgstr ""
+
+#: crocal-dummy-importer.php:2883
+msgid "Import Crocal Demos, Dummy Content, Theme Options and Widgets."
+msgstr ""
+
+#: parsers.php:42 parsers.php:72 parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: parsers.php:84 parsers.php:89 parsers.php:306 parsers.php:506
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""

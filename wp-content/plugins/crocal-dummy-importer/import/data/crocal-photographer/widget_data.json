@@ -1,0 +1,36 @@
+[
+  {
+    "eut-footer-1-sidebar": [
+      "text-2"
+    ],
+    "eut-footer-2-sidebar": [
+      "text-3"
+    ],
+    "eut-footer-3-sidebar": [
+      "text-4"
+    ]
+  },
+  {
+    "text": {
+      "2": {
+        "title": "",
+        "text": "+40 800 202 2020",
+        "filter": true,
+        "visual": true
+      },
+      "3": {
+        "title": "",
+        "text": "<div style=\"text-align: center\"><a href=\"#\">IG.</a> <a href=\"#\">TW.</a> <a href=\"#\">FB.</a></div>",
+        "filter": true,
+        "visual": true
+      },
+      "4": {
+        "title": "",
+        "text": "<div style=\"text-align: right\"><a href=\"mailto:work@crocal.com\">work@crocal.com</a></div>",
+        "filter": true,
+        "visual": true
+      },
+      "_multiwidget": 1
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eut-default-sidebar": [
+      "eut-widget-latest-posts-2"
+    ]
+  },
+  {
+    "eut-widget-latest-posts": {
+      "2": {
+        "title": "Recent Posts",
+        "num_of_posts": "5",
+        "show_image": "1",
+        "categories": null
+      },
+      "_multiwidget": 1
+    }
+  }
+]

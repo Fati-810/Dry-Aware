@@ -1,0 +1,18 @@
+[
+  {
+    "eut-single-portfolio-sidebar": [
+      "text-2"
+    ]
+  },
+  {
+    "text": {
+      "2": {
+        "title": "",
+        "text": "<div style=\"text-align: center\">\r\n<h3>Choose a seat not a side. We’re all family once the knot is tied.</h3></div>",
+        "filter": true,
+        "visual": true
+      },
+      "_multiwidget": 1
+    }
+  }
+]

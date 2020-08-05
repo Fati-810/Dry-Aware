@@ -1,0 +1,34 @@
+[
+  {
+    "eut-single-portfolio-sidebar": [
+      "text-2",
+      "text-4"
+    ],
+    "eut-footer-1-sidebar": [
+      "text-3"
+    ]
+  },
+  {
+    "text": {
+      "2": {
+        "title": "address",
+        "text": "1077 Layman Court,\r\n10001, New York\r\n646-312-6838",
+        "filter": true,
+        "visual": true
+      },
+      "3": {
+        "title": "working hours",
+        "text": "Mon. – Fri. 7:30am – 9:00pm\r\nSaturday 8:30am – 7:00pm\r\nSunday 9:00am – 6:00pm",
+        "filter": true,
+        "visual": true
+      },
+      "4": {
+        "title": "subscribe to our newsletter",
+        "text": "[contact-form-7 id=\"99\" title=\"Subscribe\"]\r\nWe ensure you that we don’t spam.",
+        "filter": true,
+        "visual": true
+      },
+      "_multiwidget": 1
+    }
+  }
+]

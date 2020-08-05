@@ -1,0 +1,79 @@
+[
+  {
+    "eut-default-sidebar": [
+      "recent-comments-2"
+    ],
+    "eut-single-portfolio-sidebar": [
+      "text-2",
+      "text-3"
+    ],
+    "eut-footer-1-sidebar": [
+      "text-4"
+    ],
+    "crocal_eutf_sidebar_5b8ebe25dfd68": [
+      "eut-widget-latest-posts-2",
+      "eut-widget-latest-posts-3"
+    ],
+    "crocal_eutf_sidebar_5b98f353d2ab1": [
+      "text-5",
+      "text-6"
+    ]
+  },
+  {
+    "recent-comments": {
+      "2": {
+        "title": "",
+        "number": 5
+      },
+      "_multiwidget": 1
+    },
+    "text": {
+      "2": {
+        "title": "Visit us",
+        "text": "19 Maypole Crescent\r\nIlford, L6 2UJ\r\nLondon, UK",
+        "filter": true,
+        "visual": true
+      },
+      "3": {
+        "title": "Working Hours",
+        "text": "Monday to Friday 9am - 5:30pm\r\nSaturday 10:30am - 4pm\r\nSunday Closed",
+        "filter": true,
+        "visual": true
+      },
+      "4": {
+        "title": "Visit Us",
+        "text": "19 Maypole Crescent\r\nIlford, L6 2UJ\r\nLondon, UK",
+        "filter": true,
+        "visual": true
+      },
+      "5": {
+        "title": "",
+        "text": "<div>[crocal_single_image image=\"3422\" retina_image=\"3423\" inherit_align=\"left\" margin_bottom=\"24\"][vc_column_text]Crocal is a super user-friendly, yet superb powerful multi-purpose WordPress theme. Its philosophy, in the backend as well as in the front-end, allows users to design sites which lead to awesomeness and nothing less. [/vc_column_text]</div>",
+        "filter": true,
+        "visual": true
+      },
+      "6": {
+        "title": "",
+        "text": "<div>[crocal_icon_box icon_box_type=\"side-icon\" icon_size=\"small\" icon_library=\"simplelineicons\" icon_simplelineicons=\"smp-icon-badge\" icon_color=\"white\" title=\"Online Support\" heading=\"h6\" link=\"url:%23|||\"][/crocal_icon_box][crocal_icon_box icon_box_type=\"side-icon\" icon_size=\"small\" icon_library=\"simplelineicons\" icon_simplelineicons=\"smp-icon-notebook\" icon_color=\"white\" title=\"Knowledge Base\" heading=\"h6\" link=\"url:%23|||\"][/crocal_icon_box][crocal_icon_box icon_box_type=\"side-icon\" icon_size=\"small\" icon_library=\"simplelineicons\" icon_simplelineicons=\"smp-icon-emotsmile\" icon_color=\"white\" title=\"Video Tutorials\" heading=\"h6\" link=\"url:%23|||\"][/crocal_icon_box]</div>",
+        "filter": true,
+        "visual": true
+      },
+      "_multiwidget": 1
+    },
+    "eut-widget-latest-posts": {
+      "2": {
+        "title": "Our Latest News",
+        "num_of_posts": "4",
+        "show_image": "1",
+        "categories": "13,33,9,12"
+      },
+      "3": {
+        "title": "",
+        "num_of_posts": "2",
+        "show_image": "",
+        "categories": "10"
+      },
+      "_multiwidget": 1
+    }
+  }
+]

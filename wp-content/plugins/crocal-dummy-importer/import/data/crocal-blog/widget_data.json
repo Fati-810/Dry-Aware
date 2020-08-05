@@ -1,0 +1,37 @@
+[
+  {
+    "crocal_eutf_sidebar_5c4aed65007b8": [
+      "text-2",
+      "eut-widget-latest-posts-2"
+    ],
+    "crocal_eutf_sidebar_5c4b096aca42c": [
+      "eut-widget-latest-posts-3"
+    ]
+  },
+  {
+    "text": {
+      "2": {
+        "title": "",
+        "text": "[crocal_single_image image_type=\"image-link\" image=\"66\" retina_image=\"67\" link=\"url:https%3A%2F%2F1.envato.market%2Fcrocal||target:%20_blank|\"]",
+        "filter": true,
+        "visual": true
+      },
+      "_multiwidget": 1
+    },
+    "eut-widget-latest-posts": {
+      "2": {
+        "title": "",
+        "num_of_posts": "3",
+        "show_image": "1",
+        "categories": null
+      },
+      "3": {
+        "title": "",
+        "num_of_posts": "3",
+        "show_image": "1",
+        "categories": null
+      },
+      "_multiwidget": 1
+    }
+  }
+]
