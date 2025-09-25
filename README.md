@@ -1,1 +1,2 @@
 # Dry-Aware
+Conceptualized and Implemented a 𝐜𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐯𝐞 𝐬𝐲𝐬𝐭𝐞𝐦 to 𝐩𝐫𝐨𝐦𝐨𝐭𝐞 𝐚𝐰𝐚𝐫𝐞𝐧𝐞𝐬𝐬 and 𝐜𝐨𝐧𝐭𝐫𝐨𝐥 𝐰𝐚𝐭𝐞𝐫 𝐰𝐚𝐬𝐭𝐚𝐠𝐞 in everyday households. The system is composed of an Android app that seamlessly integrates with users' water supply systems, 𝐞𝐦𝐩𝐨𝐰𝐞𝐫𝐢𝐧𝐠 them to monitor and 𝐦𝐚𝐧𝐚𝐠𝐞 their water consumption effectively. Additionally, an 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐯𝐞 website was developed, offering users valuable information and details to further 𝐞𝐧𝐡𝐚𝐧𝐜𝐞 their understanding of water conservation.
